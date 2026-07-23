@@ -1,0 +1,9 @@
+plate1 ع ٣ ٨ ط ن ٦ ٢ ١ ١ ٧
+plate2 ط ب ج ٥ ٥ ٤ ٩ ٣
+plate3 و ط ن ١ ١
+plate4 ص ص ص ٣ ٤ ٧ ٦
+plate5 ط س س م ٢ ٣ ٤ ٨ ٨
+plate6 أ أ ٢ ٨ ٣ ٥ ٥
+plate7 ف ع ص ع ع
+plate8 ف و ١ ١ ٧ ٥ ٧
+plate9 ل ر ١ ٨ ٤ م ع

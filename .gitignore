@@ -1,0 +1,8 @@
+Presentation/
+.env
+__pycache__/
+*.pyc
+*.mp4
+*.pt
+*.pth
+*.pdf
